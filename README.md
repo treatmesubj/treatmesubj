@@ -10,5 +10,10 @@
     </figure>
 </div>
 <div align="center">
-    <img src="https://treatmesubj.github.io/images/thanks.gif" height="100px">
+    <figure style="display: inline-block;">
+        <img src="https://treatmesubj.github.io/images/thanks.gif" height="150px">
+    </figure>
+    <figure style="display: inline-block;">
+        <img src="https://treatmesubj.github.io/images/microcomputing.gif" height="150px">
+    </figure>
 </div>
